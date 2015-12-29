@@ -233,6 +233,6 @@ Date | Recipient | Vigil Name | Translation
 11/6/2015 | Mr. Bob Brewer | Opitunaye Achimwis Ohuntam | White Bearded Storytelling Owl
 11/6/2015 | Mr. Randall Cox | Sisilia Lohumanwan Mayawsu | Buffalo Who Demonstrates Integrity
 11/6/2015 | Mrs. Jeanie Dotson | Kikehwet Kishelemienk Mimensak | Healer Of God's Children
-11/6/2015 | Mr. Ken Donn | Wingolauchsik Nutiket Shinkekink | Cheerful Guardian Of The Forest
+11/6/2015 | Mr. Ken Dunn | Wingolauchsik Nutiket Shinkekink | Cheerful Guardian Of The Forest
 11/6/2015 | Mr. Bud Moncrief | Sapeleantpe Ehamet Wehwatewet | Bald Headed Fisherman Teacher
 11/6/2015 | Mr. Greg Sweatmon | Tipas Kimtunhe | Chicken Whisperer
