@@ -3,13 +3,11 @@ This is the basis for the Coosa Lodge Planbook.
 
 ## Contributing
 
-The process for contributing additions and corrections is still TBD. 
-
-If you are interested in joining the project, contact [Chris Brightwell](https://github.com/chrisbrightwell).
+See [CONTRIBUTING.md](CONTRIBUTING.md) for information on how to contribute changes or additions.
 
 ## How to Generate the Book
 
-The configuration files and procedures for generating this book still need to be developed, but the project will utilize `asciidoctor`, `asciidoctor-pdf`, and `asciidoctor-epub` to convert plaintext files to various formats for print and/or distribution.
+The configuration files and procedures for generating this book still need to be developed, but the project may utilize `asciidoctor`, `asciidoctor-pdf`, and `asciidoctor-epub` to convert plaintext files to various formats for print and/or distribution. `pandoc` is another consideration.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
