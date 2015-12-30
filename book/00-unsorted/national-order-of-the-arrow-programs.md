@@ -2,7 +2,7 @@
 
 ## NEXT: A New Century
 
-NEXT: A New Century will take place July 30 through August 3. The lodge chief, two youth change agents and two adult advisers from each lodge will be invited to attend. Each section will also receive three invitations.
+NEXT: A New Century will take place July 30 through August 3, 2016, at Indiana University. The lodge chief, two youth change agents and two adult advisers from each lodge will be invited to attend. Each section will also receive three invitations.
 
 The main objective of NEXT is to create a culture of growth in the Order of the Arrow. Today, we serve about 11% of the youth registered in Boy Scouting. Every lodge has the opportunity to deliver the impact of the OA program to a lot more young people, and give them the same life-changing experience each of us has had.
 
